@@ -1,0 +1,16 @@
+D:\ASD\lab1\ASD_1\asd1\bin\Debug\net5.0\asd1.exe
+D:\ASD\lab1\ASD_1\asd1\bin\Debug\net5.0\asd1.deps.json
+D:\ASD\lab1\ASD_1\asd1\bin\Debug\net5.0\asd1.runtimeconfig.json
+D:\ASD\lab1\ASD_1\asd1\bin\Debug\net5.0\asd1.runtimeconfig.dev.json
+D:\ASD\lab1\ASD_1\asd1\bin\Debug\net5.0\asd1.dll
+D:\ASD\lab1\ASD_1\asd1\bin\Debug\net5.0\ref\asd1.dll
+D:\ASD\lab1\ASD_1\asd1\bin\Debug\net5.0\asd1.pdb
+D:\ASD\lab1\ASD_1\asd1\obj\Debug\net5.0\asd1.csproj.AssemblyReference.cache
+D:\ASD\lab1\ASD_1\asd1\obj\Debug\net5.0\asd1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASD\lab1\ASD_1\asd1\obj\Debug\net5.0\asd1.AssemblyInfoInputs.cache
+D:\ASD\lab1\ASD_1\asd1\obj\Debug\net5.0\asd1.AssemblyInfo.cs
+D:\ASD\lab1\ASD_1\asd1\obj\Debug\net5.0\asd1.csproj.CoreCompileInputs.cache
+D:\ASD\lab1\ASD_1\asd1\obj\Debug\net5.0\asd1.dll
+D:\ASD\lab1\ASD_1\asd1\obj\Debug\net5.0\ref\asd1.dll
+D:\ASD\lab1\ASD_1\asd1\obj\Debug\net5.0\asd1.pdb
+D:\ASD\lab1\ASD_1\asd1\obj\Debug\net5.0\asd1.genruntimeconfig.cache
